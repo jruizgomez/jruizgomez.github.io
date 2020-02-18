@@ -1,0 +1,17 @@
+body {
+    font-family: "Open Sans", sans-serif;
+}
+
+.jumbotron {
+    padding: 300px;
+    background-image: url("../img/jumbo_img.jpg");
+    background-size: cover;
+    color: rgb(252, 252, 252);
+    margin: 0px;
+    font-weight: 400;
+}
+
+.site-footer {
+    background-image: linear-gradient(to left, rgb(59, 187, 113), rgb(77, 186, 236), rgb(170, 235, 210));
+    padding: 60px 0;
+}
